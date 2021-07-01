@@ -1,12 +1,21 @@
 
 
-function sum(a, b) {
+function multifly(a, b) {
 
-    const results = a + b
+    const results = a * b
     console.log(results)
 
 
 }
-sum(12, 23)
+multifly(12,12 )
+function multifly(a, b) {
 
-lllll
+    const results = a * b
+    console.log(results)
+
+
+}
+multifly(12,12 )
+
+
+
